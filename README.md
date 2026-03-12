@@ -9,10 +9,10 @@ Often, these sensors are related—if temperature goes up, maybe pressure also g
 
 So instead of analyzing all 10 sensors separately, PCA tries to:
 
-👉 Find the underlying patterns
+👉 Find the underlying patterns.
 It finds the main “directions” in which the data varies the most.
 
-👉 Combine related variables
+👉 Combine related variables.
 It merges them into new variables called principal components.
 
 👉 Keep only the most important components

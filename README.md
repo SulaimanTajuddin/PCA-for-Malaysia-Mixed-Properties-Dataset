@@ -10,8 +10,11 @@ Estimating energy consumption
 Each engineer gives their own estimate.
 Random Forest Regressor is like taking the average of all their answers.
 Because you don’t depend on just one engineer, the result is more stable, more accurate, and less sensitive to mistakes.
+
 So:
+
 👉 Random Forest = many small decision trees working together as a team
+
 👉 Regressor = used to predict numbers (continuous values)
 
 PCA is a mathematical technique used to reduce the number of variables in a dataset while keeping most of the important information.

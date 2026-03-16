@@ -1,4 +1,4 @@
-# Random Forest Regressor & Principal Componenet Analysis for Malaysia Mixed Properties Dataset
+# Random Forest Regressor & Principal Component Analysis for Malaysia Mixed Properties Dataset
 Applying Random Forest Regressor & Principle Component Analysis (PCA) towards Malaysia Mixed Properties Dataset to analyze the practicality of both method
 
 Imagine you have many engineers (called decision trees) trying to estimate something—for example:
